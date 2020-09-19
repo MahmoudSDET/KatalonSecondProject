@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Testcase - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f7b4fcc-2578-4920-aafe-3f09df2192a6</testCaseGuid>
+   <variable>
+      <defaultValue>'matest9536@test.com'</defaultValue>
+      <description></description>
+      <id>beb637c3-b783-4cd1-8d4b-30f427fece1d</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'qeJ0sjJnwEs='</defaultValue>
+      <description></description>
+      <id>4c0e87ee-1b3c-4a96-920b-362920ab112c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
